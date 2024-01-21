@@ -41,4 +41,3 @@ WORKDIR /site
 EXPOSE 1313
 
 ENTRYPOINT ["hugo"]
-CMD ["--help"]
