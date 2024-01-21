@@ -1,3 +1,3 @@
-# graph
+# docker hugo helper
 
-a simple website that represents its content as a graph
+feel free to ignore this.
